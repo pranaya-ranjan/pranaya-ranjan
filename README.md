@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pranaya-ranjan
-- 👀 I’m interested in Java, SpringBoot, Angular, Kafka, Python, Machine Learning, Micro Service Archtitecture,  AWS, Docker, Kubernetes and Cloud Technologies
+- 👀 I have expertise in Java, SpringBoot, Angular, Kafka, Python, Machine Learning, Micro Service Archtitecture,  AWS, Docker, Kubernetes and Cloud Technologies
 - 🌱 I’m currently learning Cloud Technogies : AWS, GKP, Azure
 - 💞️ I’m looking to collaborate on Cloud Technogies : AWS, GKP, Azure
 - 📫 Reach me at Email: pranaya.r4@gmail.com
